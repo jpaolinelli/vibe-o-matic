@@ -150,3 +150,7 @@ Then follow the steps at the top of `.claude/skills/tickets/SKILL.jira.md`: conn
 - [Claude Code](https://claude.com/claude-code)
 - git, and bash (on Windows, Git Bash works)
 - Optional: the GitHub CLI (`gh`), if you turn pull requests on
+
+## License
+
+MIT. See [LICENSE](LICENSE).
