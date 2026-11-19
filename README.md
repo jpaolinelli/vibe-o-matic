@@ -30,7 +30,7 @@ tickets/pending -> in-progress -> review -> qa -> done
 1. Copy this repository's contents into the root of your project:
 
    ```bash
-   git clone <this-repo-url> vibe-o-matic
+   git clone https://github.com/jpaolinelli/vibe-o-matic.git
    ```
 
    ```bash
