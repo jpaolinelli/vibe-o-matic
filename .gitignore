@@ -1,0 +1,11 @@
+# Personal Claude Code settings (per machine, never shared)
+.claude/settings.local.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS noise
+.DS_Store
+Thumbs.db
